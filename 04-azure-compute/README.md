@@ -1,12 +1,12 @@
 # Section 4: Azure Compute Options
 
-## 📋 Lab Overview
+## Lab Overview
 
 This lab provided hands-on experience exploring Azure compute options, Virtual Machine configuration, pricing, optimization, and cost management.
 
 The lab focused on planning Azure infrastructure before deployment rather than actually deploying a Virtual Machine. The exercises included configuring a resource group, exploring VM settings, comparing VM pricing, reviewing Azure Advisor, comparing compute services, and exploring Cost Management.
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Explore Azure Virtual Machine configuration options
 - Configure resource groups and resource tags
@@ -43,7 +43,7 @@ I created a resource group for the CloudFirst Retail development environment and
 
 ## Screenshots
 
-<!-- Add screenshot here -->
+![Resource Group and Tags](Images/Created Resource Group+Tags SS.png)
 
 ## Key Takeaway
 
