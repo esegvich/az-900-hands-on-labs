@@ -336,7 +336,7 @@ Cost Management helps provide visibility and control over Azure spending.
 
 ---
 
-# 🧹 Cleanup
+# Cleanup
 
 Because I did not deploy the Virtual Machine, there were no running VM resources to clean up.
 
@@ -348,7 +348,7 @@ This ensured that the resources created during the lab were cleaned up.
 
 ---
 
-# 🧠 Key AZ-900 Takeaways
+# Key AZ-900 Takeaways
 
 ## VM Sizing
 
@@ -390,13 +390,13 @@ Important:
 
 ---
 
-# 📸 Lab Screenshots
+# Lab Screenshots
 
 Screenshots from this lab are included throughout the sections above to document the configurations and Azure services I explored.
 
 ---
 
-# 📚 Resources
+# Resources
 
 - Microsoft Azure Portal
 - Azure Pricing Calculator
