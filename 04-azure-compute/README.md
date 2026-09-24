@@ -43,7 +43,7 @@ I created a resource group for the CloudFirst Retail development environment and
 
 ## Screenshots
 
-![Resource Group and Tags](Images/Created Resource Group+Tags SS.png)
+![Resource Group and Tags](Images/01-resource-group-tags.png)
 
 ## Key Takeaway
 
@@ -125,17 +125,17 @@ I explored:
 
 ## Screenshots
 
-<!-- Add VM Basics screenshot -->
+![VM Configuration](Images/02-vm-configuration.png)
 
-<!-- Add VM Size screenshot -->
+![VM Networking](Images/03-vm-networking.png)
 
-<!-- Add Disk screenshot -->
+![VM Networking](Images/04-vm-review.png)
 
-<!-- Add Networking screenshot -->
+### Infrastructure as Code
 
-<!-- Add Management screenshot -->
+I also viewed the ARM template generated from the VM configuration.
 
-<!-- Add Monitoring screenshot -->
+![ARM Template](Images/05-arm-template.png)
 
 ## Key Takeaways
 
@@ -173,9 +173,7 @@ Reserved pricing can reduce costs for workloads that are expected to run consist
 
 ## Screenshots
 
-<!-- Add Pricing Calculator screenshot -->
-
-<!-- Add VM comparison screenshot -->
+![Cost Difference](Images/06-vm-cost-differences.png)
 
 ## Key Takeaway
 
@@ -279,9 +277,9 @@ The developer primarily provides the code while Azure handles the underlying inf
 
 ## Screenshots
 
-<!-- Add App Service screenshot -->
+![App Service](Images/07-app-service.png)
 
-<!-- Add Azure Functions screenshot -->
+![Vunction App](Images/08-function-app.png)
 
 ## Key Takeaway
 
@@ -330,11 +328,7 @@ Azure Cost Management allows budgets and spending alerts to be configured at dif
 
 ## Screenshots
 
-<!-- Add Cost Management screenshot -->
-
-<!-- Add Cost Analysis screenshot -->
-
-<!-- Add Budget screenshot if applicable -->
+![Cost Management](Images/09-cost-management.png)
 
 ## Key Takeaway
 
